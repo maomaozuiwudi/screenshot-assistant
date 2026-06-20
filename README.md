@@ -36,3 +36,8 @@ python screenshot_assistant.py
 ## 📄 协议
 
 MIT License © 2025 [maomaozuiwudi](https://github.com/maomaozuiwudi)
+
+---
+
+> 🤖 **更多AI工具推荐 → 关注小红书 @工具箱里的猫**  
+> 发现好用免费的Windows桌面工具、AI搜索技巧、效率神器，每天更新。
